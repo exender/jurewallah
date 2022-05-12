@@ -1,0 +1,43 @@
+body {
+  background-color: #a0d4eb;
+}
+
+h1 {
+  text-align: center;
+}
+
+.bouton {
+  text-align: center;
+  padding-top: 290px;
+}
+
+.btn{
+    width: 500px;
+    height: 300px;
+    font-size: 40px;
+}
+.span-txt{
+    text-align: center;
+   padding-top: 2%;
+}
+
+
+.span-txt{
+    font-size: 40px;
+}
+
+@media screen and (max-width: 1620px) {
+    .bouton {
+        text-align: center;
+        padding-top: 250px;
+    }
+    .btn{
+        width: 200px;
+        height: 75px;
+        font-size: 20px;
+    }
+    .span-txt{
+        font-size: 20px;
+    }
+    
+}
